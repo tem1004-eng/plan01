@@ -1,0 +1,8 @@
+{
+  "name": "Lumina: AI-Powered Personal Diary",
+  "description": "A sophisticated, secure personal diary application with Google-inspired aesthetics, featuring AI-driven emotional insights, mood tracking, and intelligent reflection generation using Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
